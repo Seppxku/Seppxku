@@ -23,3 +23,5 @@ When I’m not coding, I’m usually plugged into my amp, playing electric guita
 📫 **Let’s connect!**  
 📍 [Paris, France]  
 📧 [hideur.samy@gmail.com](mailto:hideur.samy@gmail.com)  
+
+> *"Driven by grace, focused on the craft."*
