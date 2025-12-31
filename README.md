@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Samy
-Welcome to my GitHub profile! I’m a **Full-Stack Developer** & CS Student driven by the challenge of crafting fluid, scalable interfaces. I treat the front-end like a science: I don’t just build things that work, I strive to understand the "why" behind every line of code. From exploring modern Web APIs to building interactive experiments, I’m focused on bridging the gap between rigorous logic and high-performance UX.
+Welcome to my GitHub profile! I’m a **Full-Stack Developer** & CS Student driven by the challenge of crafting fluid, scalable interfaces. I treat the full-stack development like a science: I don’t just build things that work, I strive to understand the "why" behind every line of code. From exploring modern Web APIs to building interactive experiments, I’m focused on bridging the gap between rigorous logic and high-performance UX.
 
 ---
 
